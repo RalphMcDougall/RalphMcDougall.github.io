@@ -1,24 +1,27 @@
 ---
 layout: about
-title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+title: About
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Cape Town, South Africa</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Electrical and Electronic Engineering student at [Stellenbosch University](https://www.ee.sun.ac.za/), graduating in December 2022.
+I have experience designing embedded systems as well as high-level software development for a large-scale product. 
+My current academic interests lie in Control Theory and Signal Processing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I occasionally participate in competitions, in particular those of a Mathematical or Algorithmic nature. 
+I have experience coaching high-school students for Olympiads on a national scale.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time I enjoy running, reading, and playing piano.
+
+This site is still very much a Work-In-Progress.
