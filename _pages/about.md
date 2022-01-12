@@ -2,23 +2,27 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Cape Town, South Africa</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Electrical and Electronic Engineering student at <a href="https://www.ee.sun.ac.za/" target="_blank" rel="noopener noreferrer">Stellenbosch University</a>, graduating in December 2022.
+I have experience designing low-noise, low-power embedded systems as well as developing high-level software for a large-scale product. 
+During my studies thus far I have built breadth across the whole spectrum of Electrical Engineering with projects ranging from power amplifiers to digital logic design to Java applications.
+My current academic interests lie in Control Theory and Signal Processing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I occasionally participate in competitions, in particular those of a Mathematical or Algorithmic nature. 
+I gained a love for teaching through my experiences coaching high-school students for national and international olympiads.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time I enjoy running, reading, playing piano, and ballroom dance.
+
+This site is still very much a Work-In-Progress.
