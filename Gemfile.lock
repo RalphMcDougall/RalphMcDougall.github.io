@@ -325,6 +325,7 @@ DEPENDENCIES
   jekyll-github-metadata
   jekyll-imagemagick
   jekyll-paginate-v2
+  jekyll-remote-theme
   jekyll-scholar
   jekyll-sitemap
   jekyll-target-blank

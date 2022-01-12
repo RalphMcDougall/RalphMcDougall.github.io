@@ -145,6 +145,7 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - jekyll-remote-theme
   - jekyll-archives
   - jekyll-diagrams
   - jekyll-email-protect
