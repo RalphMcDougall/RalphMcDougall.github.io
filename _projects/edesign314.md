@@ -2,13 +2,13 @@
 layout: page
 title: Dot-Matrix Arcade Game Console
 description: Semester project for Design (E) 314.
-img: assets/img/edesign314/photo.jpg
+img: /assets/img/edesign314/photo.jpg
 importance: 1
 category: work
 ---
 
 <p align="center">
-  <img src="assets/img/edesign314/photo.jpg">
+  <img width="95%" src="/assets/img/edesign314/photo.jpg">
 </p>
 
 ## Introduction
@@ -19,7 +19,7 @@ As a similar topic could be used in future, a detailed design will not be provid
 Please contact me personally if you would like more information.
 
 In 2021 each student was tasked with designing and assembling a simple arcade game system with an 8x8 LED Dot Matrix screen.
-
+The demo of my project can be seen by clicking on the image below.
 <p align="center">
   <a href="https://www.youtube.com/watch?v=BKrlAPijWV8">
     <img src="https://img.youtube.com/vi/BKrlAPijWV8/0.jpg">
@@ -48,11 +48,13 @@ The three largest sub-systems of the project are described below.
 The 8x8 screen was assembled by hand on a prototyping board.
 Although 64 LEDs were used, only 16 GPIO pins were used, saving a significant number of microcontroller peripheral connections.
 This was possible because screen updates were performed through row scanning with the full screen updating at 125Hz.
+The screen was designed and constructed to allow for this level of control.
+Each row and column was assigned a dedicated GPIO pin; the columns being controlled directly from the pin and the rows being controlled by a low-side switch controlling a load given by the eight LEDs in that row.
 
 #### Software
 Peripheral access was provided by the STM Hardware Abstraction Layer.
 Inputs were passed to a state machine which implemented all of the required functionality.
-To make debugging and development easier, the entire state machine used pure functions to determine the next state before updating states.
+Debugging and development were made easier by using pure functions for the state transitions.
 Software-level screen updates were triggered by a 1ms interrupt with the handler copying a row from the screen buffer to the relevant GPIO pins controlling the screen.  
 #### IO Interface
 The system peripherals used a wide range of interfaces.
@@ -68,5 +70,5 @@ Within two weeks I felt confident in my soldering abilities and felt I had gaine
 
 I was quite proud of the robust software that I implemented as it significantly reduced my development time after an initial development investment.
 Given this, I wish I had spent more time testing my debouncing algorithm.
-This was the only assessment point at which my system failed.
-I had attempted to implement a digital low-pass filter, but a simpler system would have sufficed and been easier to test.
+This was the only given requirement that my system did not meet the specification as some button bounce was still measured by the test-station.
+I had attempted to implement a digital low-pass filter, but a simpler system would have sufficed and been easier to debug.

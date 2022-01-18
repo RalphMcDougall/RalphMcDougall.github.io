@@ -7,4 +7,13 @@ importance: 1
 category: work
 ---
 
-Summary of the E Design project (WIP).
+## Introduction
+
+
+## Requirements
+
+
+## Significant Work
+
+
+## Personal Experience
