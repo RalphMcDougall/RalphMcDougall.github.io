@@ -2,10 +2,14 @@
 layout: page
 title: Dot-Matrix Arcade Game Console
 description: Semester project for Design (E) 314.
-img: assets/img/12.jpg
+img: assets/img/edesign314/photo.jpg
 importance: 1
 category: work
 ---
+
+<p align="center">
+  <img src="assets/img/edesign314/photo.jpg">
+</p>
 
 ## Introduction
 Design (E) 314 is the first independent design module that EE students at Stellenbosch University take.
@@ -16,6 +20,11 @@ Please contact me personally if you would like more information.
 
 In 2021 each student was tasked with designing and assembling a simple arcade game system with an 8x8 LED Dot Matrix screen.
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BKrlAPijWV8">
+    <img src="https://img.youtube.com/vi/BKrlAPijWV8/0.jpg">
+  </a>
+</p>
 
 ## Requirements
 The whole system was powered by a 9V battery.
