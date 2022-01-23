@@ -1,7 +1,7 @@
 ---
 title: Mathematics Olympiad Training Camp
 role: Facilitator
-start_date: 2019-12-1
+start_date: 2019-12-9
 affiliation: SAMF
 ---
 
