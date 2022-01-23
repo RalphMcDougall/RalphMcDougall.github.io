@@ -6,7 +6,7 @@ affiliation: SAMF
 ---
 
 I taught "Advanced Algebra" to students between grade 10 and 12 (age 16-18 approx.).
-Topics covered were complex numbers, polynomials, functional equations, and recurrence relations.
+Topics covered were: complex numbers, polynomials, functional equations, and recurrence relations.
 I prepared four hour-long lectures on these topics. 
 All lectures were pre-recorded and presented online due to the pandemic.
 

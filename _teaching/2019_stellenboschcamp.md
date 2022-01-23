@@ -6,7 +6,7 @@ affiliation: SAMF
 ---
 
 I taught "Intermediate Algebra" to students between grade 8 and 10 (age 14-16 approx.).
-Topics covered were basic set theory, algebraic expressions and factorisation, polynomials, inequalities and functional equations.
+Topics covered were: basic set theory, algebraic expressions and factorisation, polynomials, inequalities and functional equations.
 I prepared four hour-long lectures on these topics. 
 
 Further responsibilities included setting, and marking five tests.
