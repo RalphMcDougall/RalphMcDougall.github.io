@@ -9,6 +9,6 @@ Undergraduate competitions:
 * ACM-ICPC: sub-regional winner for Southern Africa in 2019, forced to withdraw from regional due to travel logistic problems
 
 High school competitions:
-* International Olympiad in Informatics: represented South Africa from 2017-2019
+* International Olympiad in Informatics: represented South Africa in 2017, 2018, 2019
 * South African Programming Olympiad: 2nd place in 2017 while participating in the final round (top 15 nationally) every year from 2014-2018
 * USACO: participated at platinum level
