@@ -15,4 +15,4 @@ High school competitions:
 * South African Mathematics Olympiad: 1st place in 2018
 * University of Cape Town Mathematics Olympiad: 1st place in 2018
 * University of Cape Town Mathematics Competition: 1st place in 2017, 2018
-* Die Burger Mathematics Competition: 1st place in 2018
+* _Die Burger_ Mathematics Competition: 1st place in 2018
