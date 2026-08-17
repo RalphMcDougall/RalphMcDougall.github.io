@@ -1,10 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes"
-
 title: "Ralph J. McDougall"
 description: "PhD student in Statistical Signal Processing"
 url: "https://RalphMcDougall.github.io/"
-
-minimal_mistakes_skin: "air"
-
-plugins:
-  - jekyll-include-cache
+markdown: kramdown
