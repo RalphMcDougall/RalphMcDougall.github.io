@@ -4,11 +4,9 @@ title: ""
 ---
 
 
-I am a PhD candidate in Statistical Signal Processing at the University of Cambridge.
+I am a fourth-year PhD student in Statistical Signal Processing at the University of Cambridge.
+My research focuses on real-time signal reconstruction in the presence of lossy observation models and noisy environments. 
 
-## Research
-
-My research focuses on ...
 
 ## Publications
 
@@ -24,7 +22,10 @@ Conference papers:
 3. "Results in adaptive MoM analysis with goal-oriented error estimation", **RJ McDougall**, PI Cilliers, MM Botha, _2023 17th European Conference on Antennas and Propagation (EuCAP)_.
 
 
-## Contact
+## Where am I?
 
-*Contact address:* [rjm279@cam.ac.uk](mailto:rjm279@cam.ac.uk)
+Probabilistic Systems, Information, and Inference Group,
+Department of Engineering,
+University of Cambridge,
+[ {{ site.author.email }} ](mailto:{{ site.author.email }} )
 
