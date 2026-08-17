@@ -1,5 +1,10 @@
 theme: minima
 
+author:
+  name: Ralph J. McDougall
+  email: rjm279@cam.ac.uk
+  affiliation: University of Cambridge
+
 title: "Ralph J. McDougall"
 description: "PhD student in Statistical Signal Processing"
 url: "https://RalphMcDougall.github.io/"
