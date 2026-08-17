@@ -3,6 +3,26 @@
 
 @import "minima";
 
-body, p {
+body, p, li {
   text-align: justify;
+}
+
+
+.site-footer {
+  padding: 20px 0 25px;
+  border-top: 1px solid #eee;
+  color: #777;
+  font-size: 14px;
+}
+
+.site-footer p {
+  margin: 4px 0;
+}
+
+.footer-links {
+  font-size: 13px;
+}
+
+.site-footer a {
+  color: inherit;
 }

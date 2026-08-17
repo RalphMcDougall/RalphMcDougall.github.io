@@ -1,8 +1,18 @@
-<footer class="site-footer">
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
   <div class="wrapper">
     <p>
       © {{ site.time | date: "%Y" }} {{ site.author.name }}
-      · {{ site.author.affiliation }}
+      · {{ site.affiliation }}
+    </p>
+
+    <p class="footer-links">
+      <a href="mailto:{{ site.author.email }}">Email</a>
+      ·
+      <a href="{{ "/cv/" | relative_url }}">CV</a>
+      ·
+      <a href="https://github.com/janedoe">GitHub</a>
     </p>
   </div>
 </footer>
