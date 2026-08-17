@@ -1,9 +1,7 @@
 ---
 layout: home
-title: "Home"
 ---
 
-# Ralph J. McDougall
 
 I am a PhD candidate in Statistical Signal Processing at the University of Cambridge.
 
