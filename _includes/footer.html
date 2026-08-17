@@ -4,15 +4,15 @@
   <div class="wrapper">
     <p>
       © {{ site.time | date: "%Y" }} {{ site.author.name }}
-      · {{ site.affiliation }}
+      · {{ site.author.affiliation }}
     </p>
 
     <p class="footer-links">
       <a href="mailto:{{ site.author.email }}">Email</a>
       ·
-      <a href="{{ "/cv/" | relative_url }}">CV</a>
+      <a href="https://github.com/{{ site.github }}">GitHub</a>
       ·
-      <a href="https://github.com/janedoe">GitHub</a>
+      <a href="https://linkedin.com/in/{{ site.linkedin }}">LinkedIn</a>
     </p>
   </div>
 </footer>
