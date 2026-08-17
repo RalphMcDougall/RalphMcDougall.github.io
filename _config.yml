@@ -7,4 +7,9 @@ markdown: kramdown
 
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/RalphMcDougall/"}
+    - title: GitHub
+      icon: github
+      url: "https://github.com/RalphMcDougall/"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/RalphMcDougall/"
