@@ -28,4 +28,3 @@ Conference papers:
 
 *Contact address:* [rjm279@cam.ac.uk](mailto:rjm279@cam.ac.uk)
 
-[![GitHub](https://github.com/favicon.ico)](https://github.com/RalphMcDougall)
