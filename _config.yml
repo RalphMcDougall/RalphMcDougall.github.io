@@ -5,7 +5,5 @@ description: "PhD student in Statistical Signal Processing"
 url: "https://RalphMcDougall.github.io/"
 markdown: kramdown
 
-minima:
-  social_links:
-    github: RalphMcDougall
-    linkedin: RalphMcDougall
+github_username: RalphMcDougall
+linkedin_username: RalphMcDougall
