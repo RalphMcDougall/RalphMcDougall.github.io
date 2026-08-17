@@ -24,8 +24,8 @@ Conference papers:
 
 ## Where am I?
 
-Probabilistic Systems, Information, and Inference Group,
-Department of Engineering,
-University of Cambridge,
+Probabilistic Systems, Information, and Inference Group, <br>
+Department of Engineering, <br>
+University of Cambridge, <br>
 [ {{ site.author.email }} ](mailto:{{ site.author.email }} )
 
