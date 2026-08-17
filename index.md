@@ -25,5 +25,5 @@ Conference papers:
 ## Contact
 
 **Email:** rjm279@cam.ac.uk
-[:envelope:](mailto:rjm279@cam.ac.uk)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RalphMcDougall)
+[✉️](mailto:rjm279@cam.ac.uk)
+[![GitHub](https://github.com/favicon.ico)](https://github.com/RalphMcDougall)
