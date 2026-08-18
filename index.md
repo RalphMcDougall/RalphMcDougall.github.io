@@ -39,7 +39,7 @@ Conference papers:
 
 ## Where can you find me?
 
-My preferred means of contact is over email: [ {{ site.author.email }} ](mailto:{{ site.author.email }} ) 
+My preferred means of contact is over email: [ {{ site.author.email }} ](mailto:{{ site.author.email }} ). 
 
 My group affiliation is: \
 _Probabilistic Systems, Information, and Inference Group,_ \
