@@ -19,7 +19,7 @@ Conference papers:
 
 1. "Sequential Bayesian Signal Reconstruction for Unlimited Sampling", **RJ McDougall**, SJ Godsill, _2025 IEEE 10th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)_. [\[PAPER\]](https://ieeexplore.ieee.org/abstract/document/11423959), [\[CODE\]](https://github.com/RalphMcDougall/CAMSAP-2025-Bayes-US)
 2. "On the Construction of Discrete-Time ARMA Models from Continuous-Time State-Space Models", **RJ McDougall**, SJ Godsill, _2025 33rd European Signal Processing Conference (EUSIPCO)_. [\[PAPER\]](https://ieeexplore.ieee.org/abstract/document/11226083), [\[CODE\]](https://github.com/RalphMcDougall/EUSIPCO-2025-CARMA)
-3. "Results in adaptive MoM analysis with goal-oriented error estimation", **RJ McDougall**, PI Cilliers, MM Botha, _2023 17th European Conference on Antennas and Propagation (EuCAP)_.
+3. "Results in adaptive MoM analysis with goal-oriented error estimation", **RJ McDougall**, PI Cilliers, MM Botha, _2023 17th European Conference on Antennas and Propagation (EuCAP)_. [\[PAPER\]](https://ieeexplore.ieee.org/abstract/document/10133649)
 
 
 ## Where am I?
