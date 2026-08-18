@@ -9,6 +9,10 @@ My research focuses on real-time signal reconstruction in the presence of lossy 
 The aim is to extract signal from noise as efficiently as possible, allowing decision-making on edge devices, reducing communication burdens, and fusing sensing at a systems level.
 Bayesian Inference provides a mathematical toolkit for producing interpretable machine learning systems with clear, systematic rules for evaluating quantities of interest.  
 
+A fundamental challenge in Bayesian system modeling is establishing models that are tractable to perform inference on while still being a reasonable representation of the real-world system.
+I have spent a large part of my PhD working on establishing connections between tractable, discrete-time models commonly used in econometrics to continuous-time stochastic differential equations and Gaussian Processes.
+There is ongoing work connecting this to Lévy Processes, which would allow for principled modeling of outliers and real-world disturbances in engineering systems.
+
 I'm also broadly interested in computational systems and have experience writing embedded assembly for microcontrollers, high-performance C++ for olympiads, and production-grade TypeScript for professional software.
 The last few years I have been learning Julia, which is particularly useful for Data Science and a potential solution to the two-language problem in high-performance software development.
 
