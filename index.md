@@ -16,6 +16,7 @@ There is ongoing work connecting this to Lévy Processes, which would allow for 
 I'm also broadly interested in computational systems and have experience writing embedded assembly for microcontrollers, high-performance C++ for olympiads, and production-grade TypeScript for professional software.
 The last few years I have been learning Julia, which is particularly useful for Data Science and a potential solution to the two-language problem in high-performance software development.
 
+Please do get in touch if these topics interest you at all!
 
 ## Publications
 
