@@ -46,4 +46,4 @@ _Probabilistic Systems, Information, and Inference Group,_ \
 _Department of Engineering,_ \
 _University of Cambridge._
 
-Please contact me directly for an up-to-date CV.
+Please contact me directly for an up-to-date CV. Links to my other accounts are available in the footer.
